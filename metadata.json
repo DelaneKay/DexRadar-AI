@@ -1,0 +1,5 @@
+{
+  "name": "Copy of DexRadar AI",
+  "description": "An on-chain arbitrage scout that scans DEXes across multiple chains to find profitable arbitrage opportunities. It filters out risky tokens and ranks opportunities by net profitability.",
+  "requestFramePermissions": []
+}
